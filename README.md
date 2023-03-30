@@ -3,6 +3,7 @@
 A simple application created with React.js, that allows you generate a password by setting the required parameters:
 - (Number input field)Password length
 - (Checkboxes)characters which will contain the password: uppercase/lowercase letters,numbers and symbols
+It is also possible to copy the password on button click.
 
 ## Demo
 
