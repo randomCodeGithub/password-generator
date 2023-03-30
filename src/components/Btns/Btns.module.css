@@ -1,0 +1,6 @@
+.btns {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1.9rem;
+  padding: 0 1rem 1rem;
+}
